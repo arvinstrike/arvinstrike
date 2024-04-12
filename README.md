@@ -1,7 +1,7 @@
 ## About Me
 🌱 I’m currently interested in learning Deep Learning and Computer Vision.
 
-👨‍💻 All of my projects and experiences are available at [arvinstrike.vercel.app](https://arvinstrike.vercel.app/).
+👨‍💻 All of my projects and experiences are available at [arvinwinardi.vercel.app](https://arvinwinardi.vercel.app/).
 
 ## Tech Stack
 
