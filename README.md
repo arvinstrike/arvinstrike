@@ -1,38 +1,39 @@
-💫 About Me:
-🌱 I’m currently interested in learning Deep Learning, Computer Vision
+## About Me
+🌱 I’m currently interested in learning Deep Learning and Computer Vision.
 
-👨‍💻 All of my projects and experiences are available at https://arvinstrike.vercel.app/
+👨‍💻 All of my projects and experiences are available at [arvinstrike.vercel.app](https://arvinstrike.vercel.app/).
 
-💻 Tech Stack:
-Languages
-C Python JavaScript TypeScript
+## Tech Stack
 
-Machine Learning
-Matplotlib Keras NumPy Pandas scikit-learn TensorFlow OpenCV
+### Languages
+C | Python | JavaScript | TypeScript
 
-JS Framework/Library
-Next JS React Threejs React Native Vue.js
+### Machine Learning
+Matplotlib | Keras | NumPy | Pandas | scikit-learn | TensorFlow | OpenCV
 
-CSS Framework/Library/Pre-processors
-TailwindCSS Bootstrap PostCSS SASS Vuetify
+### JS Framework/Library
+Next.js | React | Three.js | React Native | Vue.js
 
-Design/Visual Tools
-Figma Canva
+### CSS Framework/Library/Pre-processors
+TailwindCSS | Bootstrap | PostCSS | SASS | Vuetify
 
-Database/State
-Firebase MongoDB Postgres Supabase
+### Design/Visual Tools
+Figma | Canva
 
-Backend
-NodeJS Express.js API FastAPI Flask
+### Database/State
+Firebase | MongoDB | Postgres | Supabase
 
-Web Hosting
-Vercel Heroku Firebase GitHub Netlify
+### Backend
+Node.js | Express.js | API | FastAPI | Flask
 
-CI/CD
-GitHub Actions Jenkins
+### Web Hosting
+Vercel | Heroku | Firebase | GitHub | Netlify
 
-Package Manager
-NPM Yarn
+### CI/CD
+GitHub Actions | Jenkins
 
-Version Control
-Git GitHub
+### Package Manager
+NPM | Yarn
+
+### Version Control
+Git | GitHub
