@@ -1,16 +1,38 @@
-### Hi there 👋
+💫 About Me:
+🌱 I’m currently interested in learning Deep Learning, Computer Vision
 
-<!--
-**arvinstrike/arvinstrike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 All of my projects and experiences are available at https://arvinstrike.vercel.app/
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+Languages
+C Python JavaScript TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Machine Learning
+Matplotlib Keras NumPy Pandas scikit-learn TensorFlow OpenCV
+
+JS Framework/Library
+Next JS React Threejs React Native Vue.js
+
+CSS Framework/Library/Pre-processors
+TailwindCSS Bootstrap PostCSS SASS Vuetify
+
+Design/Visual Tools
+Figma Canva
+
+Database/State
+Firebase MongoDB Postgres Supabase
+
+Backend
+NodeJS Express.js API FastAPI Flask
+
+Web Hosting
+Vercel Heroku Firebase GitHub Netlify
+
+CI/CD
+GitHub Actions Jenkins
+
+Package Manager
+NPM Yarn
+
+Version Control
+Git GitHub
